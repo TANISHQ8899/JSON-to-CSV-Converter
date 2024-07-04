@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Tanishq",
+        "Age": 21,
+        "BirthYear": 2003,
+        "Projects": ["Diabetes Prediction", "AI Voice Assistant"]
+    },
+    {
+        "Name": "Alice",
+        "Age": 25,
+        "BirthYear": 1999,
+        "Projects": ["Email Spam Classification"]
+    },
+    {
+        "Name": "Bob",
+        "Age": 22,
+        "BirthYear": 2002,
+        "Projects": ["Machine Learning Course", "Data Analysis"]
+    }
+]
